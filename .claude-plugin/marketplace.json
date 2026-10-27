@@ -1,0 +1,13 @@
+{
+  "name": "interviewers-against-you",
+  "owner": {
+    "name": "Vinícius Nolêto"
+  },
+  "plugins": [
+    {
+      "name": "interviewers-against-you",
+      "source": "./",
+      "description": "Mock tech job interview with a four-person panel that studies your LinkedIn and the job's stack, evaluates every answer, and gives a hiring verdict with feedback."
+    }
+  ]
+}

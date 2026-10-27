@@ -1,0 +1,9 @@
+{
+  "name": "interviewers-against-you",
+  "version": "0.1.0",
+  "description": "Mock tech job interview with a four-person panel (senior tech lead, head of HR, product owner, hostile team lead) that studies your LinkedIn and the job's stack, evaluates every answer, and gives a hiring verdict with feedback.",
+  "author": {
+    "name": "Vinícius Nolêto"
+  },
+  "keywords": ["interview", "mock-interview", "career", "practice", "tech"]
+}
